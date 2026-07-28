@@ -1529,3 +1529,8 @@ margin-top:90px;
         font-size: 34px;
     }
 }
+.project-card {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
